@@ -1,0 +1,38 @@
+# Essentials
+*
+!.gitignore
+
+# Project
+!manage.py 
+!requirements.txt
+!mydjango/
+!mydjango/__init__.py
+!mydjango/asgi.py
+!mydjango/settings.py
+!mydjango/urls.py 
+!mydjango/wsgi.py
+
+
+# Polls App
+!polls/
+!polls/__init__.py 
+!polls/admin.py 
+!polls/apps.py
+!polls/models.py 
+!polls/views.py
+!polls/urls.py 
+!polls/tests.py
+!polls/templates
+!polls/templates/polls
+!polls/templates/polls/detail.html
+!polls/templates/polls/index.html
+!polls/templates/polls/results.html
+
+!polls/templates/admin
+!polls/templates/admin/base_site.html
+
+!polls/static
+!polls/static/polls 
+!polls/static/polls/style.css
+!polls/static/polls/images
+!polls/static/polls/images/background.png
